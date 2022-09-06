@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "146149805060",
+    "firebase_url": "https://finger-game-56604.firebaseio.com",
+    "project_id": "finger-game-56604",
+    "storage_bucket": "finger-game-56604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146149805060:android:83406e5f1c4d3e0d823951",
+        "android_client_info": {
+          "package_name": "com.jundapp.fingergame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146149805060-67ntkn0v5g0a4k56ikiak3ouq0fu2hiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuxRqjk1Vwvy6gC6o5ghpDfLczDCFGI-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146149805060-67ntkn0v5g0a4k56ikiak3ouq0fu2hiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
